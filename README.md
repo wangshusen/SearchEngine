@@ -5,14 +5,17 @@
 
 1. **搜索引擎基础**
 
-
     * 搜索引擎的基本概念
+    [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_01.pdf)]
     
     * 什么决定用户满意度？
+    [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_02.pdf)]
 
     * 搜索引擎的链路
+    [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_03.pdf)]
 
     * 搜索引擎的评价指标
+    [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_04.pdf)]
     
 
 
