@@ -7,6 +7,8 @@
 
     * 搜索引擎的基本概念
     [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_01.pdf)]
+    [[YouTube](https://youtu.be/ddi6_rGEIdk)]
+    [[Bilibili](https://www.bilibili.com/video/BV1Wr421b7uP)]
     
     * 什么决定用户满意度？
     [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_02.pdf)]
