@@ -17,6 +17,8 @@
 
     * 搜索引擎的评价指标
     [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_03.pdf)]
+    [[YouTube](https://youtu.be/_1_-dvNAMlo)]
+    [[Bilibili](https://www.bilibili.com/video/BV1BT421m7UQ/)]
 
     * 搜索引擎的链路
     [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_04.pdf)]
