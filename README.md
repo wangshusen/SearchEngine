@@ -22,6 +22,8 @@
 
     * 搜索引擎的链路
     [[slides](https://github.com/wangshusen/SearchEngine/blob/main/Slides/01_Basics_04.pdf)]
+    [[YouTube](https://youtu.be/V1BrdtN2d30)]
+    [[Bilibili](https://www.bilibili.com/video/BV1UM4m1D7L3/)]
     
 
 
